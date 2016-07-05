@@ -1,3 +1,15 @@
+# code management
+.git/
+.svn/
+
+# visual studio
+.vs/
+Debug/
+Release/
+*.suo
+*.VC.db
+*.sdf
+
 # Compiled Object files
 *.slo
 *.lo
