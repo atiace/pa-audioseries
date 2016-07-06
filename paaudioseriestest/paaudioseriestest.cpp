@@ -94,6 +94,7 @@ int _tmain(int argc, _TCHAR* argv[])
             {
                 printf( "\nRecording Success.\n" );
             }
+            paFreeMemory( precBuf );
         }
     }
 
